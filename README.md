@@ -1,87 +1,232 @@
 <div align="center">
 
-<!-- ✨ Animated Banner ✨ -->
+<!-- 🔥 Animated Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=7">
-  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=1">
-  <img src="./megha-banner.svg?v=7" alt="Megha Mittal — Frontend Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
+  <img src="./banner.svg?v=1" width="100%" alt="Nandani Kumari"/>
 </picture>
 
 </div>
 
-<br/>
+<br>
 
-<table align="center" border="0">
+<table>
 <tr>
-<td width="38%" align="center" valign="middle">
 
-<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
+<td width="35%" align="center">
 
-</td>
-<td width="62%" valign="middle">
+<img src="./lanyard.svg?v=1" width="330"/>
 
-### 🌸 My Anime Creations
+<br>
 
-| 🎌 Project | 💻 Tech | ⭐ |
-|:---|:---:|:---:|
-| [🍥 Naruto — Sage Mode](https://github.com/Meghamittal0920/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
-| [⚔️ Zoro — King of Hell](https://github.com/Meghamittal0920/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
-| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
-| [👁️ JJK — Sukuna](https://github.com/Meghamittal0920/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
-| [🏴‍☠️ One Piece 3D Website](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
+<img src="https://img.shields.io/badge/CEH-v13-red?style=for-the-badge&logo=hackaday"/>
 
-<br/>
+<img src="https://img.shields.io/badge/VAPT-Engineer-purple?style=for-the-badge"/>
 
-> 💗 *"I don't watch anime, I code anime."*
+<img src="https://img.shields.io/badge/Bug_Bounty-Hunter-success?style=for-the-badge"/>
 
 </td>
+
+<td width="65%">
+
+# 👋 Hi, I'm Nandani Kumari
+
+### 🚀 Frontend Developer • Ethical Hacker • VAPT Engineer
+
+💻 Passionate about building modern web applications while securing them against real-world threats.
+
+🔐 Interested in
+
+- Ethical Hacking
+- Web Application Security
+- API Security
+- Bug Bounty Hunting
+- Secure Coding
+- Penetration Testing
+
+> "Build Secure. Hack Smart. Never Stop Learning."
+
+</td>
+
 </tr>
 </table>
 
-<br/>
+---
 
-<div align="center">
+# ⚡ Featured Projects
 
-### 📊 GitHub Stats & Graphs
+| Project | Tech |
+|----------|------|
+| 🛡️ Vulnerability Scanner | Python |
+| 🌐 Security Portfolio | React |
+| 🔐 VAPT Toolkit | Python |
+| 🚀 Animated GitHub Banner | SVG |
+| 💻 Cyber Dashboard | React |
+| 🔥 Bug Bounty Notes | Markdown |
 
-<img src="./megha-stats.svg?v=2" alt="GitHub Stats" height="185"/>
-<img src="./megha-langs.svg?v=2" alt="Top Languages" height="185"/>
+---
 
-<br/><br/>
+# 🛠 Tech Stack
 
-<img src="https://streak-stats.demolab.com?user=Meghamittal0920&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+<img src="./techstack.svg"/>
 
-<br/><br/>
+---
 
-<!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghamittal0920&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
+# 🛡 Cyber Security Arsenal
 
-<br/><br/>
+<table>
+<tr>
 
-<!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./megha-trophies.svg?v=2" alt="Trophies" width="95%"/>
+<td>
 
-<br/><br/>
+✅ CEH v13
 
-### 🐍 Watch the snake eat my contributions
+✅ VAPT
 
-<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" alt="Contribution snake"/>
+✅ Web Security
 
-<br/><br/>
+✅ API Security
 
-### 📫 Let's Connect
+✅ Network Security
 
-<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.instagram.com/meghamittal92000"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+✅ OWASP Top 10
 
-<br/><br/>
+</td>
 
-<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<td>
 
-<br/><br/>
+✅ Kali Linux
 
-*⭐️ Always learning, always building.* 💗
+✅ Burp Suite
 
-</div>
+✅ Wireshark
+
+✅ Nmap
+
+✅ Metasploit
+
+✅ Nessus
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="./stats.svg" height="180"/>
+
+<img src="./langs.svg" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=itsnandani&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsnandani&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/itsnandani/itsnandani/output/github-contribution-grid-snake-dark.svg"/>
+
+---
+
+# 🏆 GitHub Achievements
+
+<img src="./trophies.svg"/>
+
+---
+
+# ⚔ Hacker Toolkit
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,nodejs,python,java,mysql,git,github,linux"/>
+
+</p>
+
+---
+
+# 💻 Terminal
+
+```bash
+> whoami
+
+Nandani Kumari
+
+Role:
+Frontend Developer
+Ethical Hacker
+VAPT Engineer
+
+Skills:
+React
+TypeScript
+Python
+Cyber Security
+
+Status:
+Available for Opportunities
+```
+
+---
+
+# 🌐 Portfolio
+
+🔗 https://snsecurity.in
+
+---
+
+# 📬 Connect
+
+<p align="center">
+
+<a href="mailto:nandanikumari00250@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/itsnandani">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://snsecurity.in">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# ☕ Support
+
+<a href="https://github.com/sponsors/itsnandani">
+
+<img src="https://img.shields.io/badge/Sponsor-ff69b4?style=for-the-badge"/>
+
+</a>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=itsnandani&style=for-the-badge&color=blueviolet"/>
+
+---
+
+⭐ **Code Secure • Build Better • Keep Learning**

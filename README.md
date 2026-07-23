@@ -1,21 +1,87 @@
-<p align="center">
-<img src="./banner.svg" width="100%">
-</p>
-# 💫 About Me:
-<br>Hi there! I'm **Nandani Kumari** 👋<br><br>🚀 Frontend Developer passionate about building modern, responsive, and user-friendly web applications.<br><br>🔐 Cybersecurity enthusiast with hands-on experience in **Ethical Hacking**, **Vulnerability Assessment & Penetration Testing (VAPT)**, **Web Security**, and **API Security Testing**.<br><br>💡 I enjoy combining development and security to create applications that are not only beautiful but also secure and reliable.<br><br>### 🌱 Currently Learning<br><br>* Advanced React.js & Next.js<br>* Secure Frontend Development<br>* Web Application Penetration Testing<br>* Cloud & API Security<br><br>### 💻 Tech Stack<br><br>**Frontend:** HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js • Tailwind CSS • Bootstrap<br><br>**Cyber Security:** Ethical Hacking • VAPT • OWASP Top 10 • Web Security • Network Security • API Security<br><br>**Tools:** Kali Linux • Burp Suite • Nmap • Metasploit • Wireshark • Nessus<br><br>### 🎯 Goals<br><br>* Build impactful and secure web applications<br>* Contribute to Open Source<br>* Continuously improve my development and cybersecurity skills<br><br>> *"Building beautiful interfaces. Finding vulnerabilities. Securing the web."* 🚀<br>
+<div align="center">
 
+<!-- ✨ Animated Banner ✨ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=1">
+  <img src="./megha-banner.svg?v=7" alt="Megha Mittal — Frontend Developer" width="100%"/>
+</picture>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsnandani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandanikumari00250@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=itsnandani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=itsnandani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsnandani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=itsnandani&icon=0&color=0)](https://visitcount.itsvg.in)
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
+<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
+
+</td>
+<td width="62%" valign="middle">
+
+### 🌸 My Anime Creations
+
+| 🎌 Project | 💻 Tech | ⭐ |
+|:---|:---:|:---:|
+| [🍥 Naruto — Sage Mode](https://github.com/Meghamittal0920/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
+| [⚔️ Zoro — King of Hell](https://github.com/Meghamittal0920/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
+| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
+| [👁️ JJK — Sukuna](https://github.com/Meghamittal0920/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
+| [🏴‍☠️ One Piece 3D Website](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
+
+<br/>
+
+> 💗 *"I don't watch anime, I code anime."*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📊 GitHub Stats & Graphs
+
+<img src="./megha-stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./megha-langs.svg?v=2" alt="Top Languages" height="185"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Meghamittal0920&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- 📈 Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghamittal0920&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
+
+<br/><br/>
+
+<!-- 🏆 Trophies (local animated SVG — always loads) -->
+<img src="./megha-trophies.svg?v=2" alt="Trophies" width="95%"/>
+
+<br/><br/>
+
+### 🐍 Watch the snake eat my contributions
+
+<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" alt="Contribution snake"/>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/meghamittal92000"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*⭐️ Always learning, always building.* 💗
+
+</div>

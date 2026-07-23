@@ -1,43 +1,76 @@
 <p align="center">
   <img src="./banner.svg" width="800" alt="Nandani Kumari Banner"/>
 </p>
-<table>
+<table align="center" border="0" cellpadding="20" cellspacing="0" width="100%">
 <tr>
 
-<td width="38%" align="center">
+<!-- LEFT SIDE -->
+<td width="35%" align="center" valign="middle">
 
-<img src="./profile.png" width="240" style="border-radius:50%;">
+<img src="./assets/profile.png" width="220" alt="Nandani Kumari"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CEH-v13-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CEH-v13-red?style=for-the-badge&logo=hackaday&logoColor=white"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/VAPT-Engineer-purple?style=for-the-badge"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Bug_Bounty-Hunter-success?style=for-the-badge"/>
 
 <br><br>
 
-<img src="./terminal.svg" width="240">
+<img src="./assets/profile-card.svg" width="260" alt="Profile Card"/>
 
 </td>
 
-<td width="62%">
+<!-- RIGHT SIDE -->
+<td width="65%" valign="top">
 
 # 👋 Hi, I'm Nandani Kumari
 
 ### 🚀 Frontend Developer • Ethical Hacker • VAPT Engineer
 
-🔐 Passionate about building secure web applications.
+💻 Passionate about building secure, scalable and modern web applications while exploring offensive and defensive cybersecurity.
+
+---
 
 ### 💡 Focus
 
-- Web Security
-- API Security
-- VAPT
-- Secure Coding
-- Bug Bounty
-- Penetration Testing
+- 🛡 Web Application Security
+- 🌐 API Security
+- 🔐 Vulnerability Assessment & Penetration Testing (VAPT)
+- 🐞 Bug Bounty Hunting
+- ⚡ Secure Coding
+- 🖥 Linux & Network Security
 
-> Build Secure • Hack Smart • Never Stop Learning
+---
+
+### 📜 Certifications
+
+- ✅ CEH v13
+- ✅ VAPT Engineer
+- ✅ Ethical Hacking
+- ✅ Secure Coding
+
+---
+
+### 🌐 Contact
+
+📧 **nandanikumari00250@gmail.com**
+
+🌍 **https://snsecurity.in**
+
+🐙 **https://github.com/itsnandani**
+
+💼 **https://linkedin.com/in/yourusername**
+
+---
+
+> 💜 **"Build Secure • Hack Smart • Never Stop Learning."**
 
 </td>
 

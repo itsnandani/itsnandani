@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="720" viewBox="0 0 900 720">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0f091a"/>
+<stop offset="100%" stop-color="#24143e"/>
+</linearGradient>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#ff3cac"/>
+<stop offset="100%" stop-color="#7b61ff"/>
+</linearGradient>
+<style>text{font-family:Arial,sans-serif;fill:white}.t{font-size:28px;font-weight:bold}.h{font-size:22px;font-weight:bold}.l{font-size:14px}</style>
+</defs>
+<rect width="900" height="720" fill="url(#bg)" rx="24"/>
+<text x="30" y="42" class="t">Skills &amp; Technologies</text>
+
+<rect x="30" y="70" width="390" height="300" rx="18" fill="#171428" stroke="url(#grad)"/>
+<text x="50" y="105" class="h">Frontend Development</text>
+<text x="50" y="135" class="l">HTML5</text>
+<rect x="50" y="143" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="50" y="143" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="285" dur="1.0s" fill="freeze"/></rect>
+<text x="50" y="165" class="l">CSS3</text>
+<rect x="50" y="173" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="50" y="173" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="276" dur="1.1s" fill="freeze"/></rect>
+<text x="50" y="195" class="l">JavaScript</text>
+<rect x="50" y="203" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="50" y="203" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="270" dur="1.2s" fill="freeze"/></rect>
+<text x="50" y="225" class="l">React.js</text>
+<rect x="50" y="233" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="50" y="233" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="270" dur="1.3s" fill="freeze"/></rect>
+<text x="50" y="255" class="l">Next.js</text>
+<rect x="50" y="263" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="50" y="263" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="246" dur="1.4s" fill="freeze"/></rect>
+<text x="50" y="285" class="l">Tailwind CSS</text>
+<rect x="50" y="293" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="50" y="293" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="276" dur="1.5s" fill="freeze"/></rect>
+<text x="50" y="315" class="l">TypeScript</text>
+<rect x="50" y="323" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="50" y="323" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="255" dur="1.6s" fill="freeze"/></rect>
+<text x="50" y="345" class="l">Git &amp; GitHub</text>
+<rect x="50" y="353" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="50" y="353" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="270" dur="1.7s" fill="freeze"/></rect>
+<rect x="470" y="70" width="390" height="300" rx="18" fill="#171428" stroke="url(#grad)"/>
+<text x="490" y="105" class="h">Cyber Security</text>
+<text x="490" y="135" class="l">Ethical Hacking</text>
+<rect x="490" y="143" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="490" y="143" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="270" dur="1.0s" fill="freeze"/></rect>
+<text x="490" y="165" class="l">VAPT</text>
+<rect x="490" y="173" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="490" y="173" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="273" dur="1.1s" fill="freeze"/></rect>
+<text x="490" y="195" class="l">Web Security</text>
+<rect x="490" y="203" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="490" y="203" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="264" dur="1.2s" fill="freeze"/></rect>
+<text x="490" y="225" class="l">OWASP Top 10</text>
+<rect x="490" y="233" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="490" y="233" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="255" dur="1.3s" fill="freeze"/></rect>
+<text x="490" y="255" class="l">Burp Suite</text>
+<rect x="490" y="263" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="490" y="263" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="261" dur="1.4s" fill="freeze"/></rect>
+<text x="490" y="285" class="l">Nmap</text>
+<rect x="490" y="293" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="490" y="293" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="267" dur="1.5s" fill="freeze"/></rect>
+<text x="490" y="315" class="l">Kali Linux</text>
+<rect x="490" y="323" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="490" y="323" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="276" dur="1.6s" fill="freeze"/></rect>
+<text x="490" y="345" class="l">Linux</text>
+<rect x="490" y="353" width="300" height="10" rx="5" fill="#31294b"/>
+<rect x="490" y="353" width="0" height="10" rx="5" fill="url(#grad)"><animate attributeName="width" from="0" to="270" dur="1.7s" fill="freeze"/></rect>
+<text x="30" y="395" class="h">Security Tools</text>
+<rect x="30" y="420" width="160" height="36" rx="18" fill="#241c40" stroke="url(#grad)"/>
+<text x="42" y="442" class="l">Kali Linux</text>
+<rect x="200" y="420" width="160" height="36" rx="18" fill="#241c40" stroke="url(#grad)"/>
+<text x="212" y="442" class="l">Burp Suite</text>
+<rect x="370" y="420" width="160" height="36" rx="18" fill="#241c40" stroke="url(#grad)"/>
+<text x="382" y="442" class="l">Nmap</text>
+<rect x="540" y="420" width="160" height="36" rx="18" fill="#241c40" stroke="url(#grad)"/>
+<text x="552" y="442" class="l">Metasploit</text>
+<rect x="30" y="470" width="160" height="36" rx="18" fill="#241c40" stroke="url(#grad)"/>
+<text x="42" y="492" class="l">Wireshark</text>
+<rect x="200" y="470" width="160" height="36" rx="18" fill="#241c40" stroke="url(#grad)"/>
+<text x="212" y="492" class="l">SQLMap</text>
+<rect x="370" y="470" width="160" height="36" rx="18" fill="#241c40" stroke="url(#grad)"/>
+<text x="382" y="492" class="l">Nessus</text>
+<rect x="540" y="470" width="160" height="36" rx="18" fill="#241c40" stroke="url(#grad)"/>
+<text x="552" y="492" class="l">FFUF</text>
+<rect x="30" y="520" width="160" height="36" rx="18" fill="#241c40" stroke="url(#grad)"/>
+<text x="42" y="542" class="l">Dirsearch</text>
+<rect x="200" y="520" width="160" height="36" rx="18" fill="#241c40" stroke="url(#grad)"/>
+<text x="212" y="542" class="l">Hydra</text>
+</svg>

@@ -4,38 +4,40 @@
 <table>
 <tr>
 
-<td width="35%" align="center">
+<td width="38%" align="center">
 
-<img src="./lanyard.svg?v=1" width="330"/>
+<img src="./profile.png" width="240" style="border-radius:50%;">
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/CEH-v13-red?style=for-the-badge&logo=hackaday"/>
-
+<img src="https://img.shields.io/badge/CEH-v13-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VAPT-Engineer-purple?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Bug_Bounty-Hunter-success?style=for-the-badge"/>
+
+<br><br>
+
+<img src="./terminal.svg" width="240">
 
 </td>
 
-<td width="65%">
+<td width="62%">
 
 # 👋 Hi, I'm Nandani Kumari
 
 ### 🚀 Frontend Developer • Ethical Hacker • VAPT Engineer
 
-💻 Passionate about building modern web applications while securing them against real-world threats.
+🔐 Passionate about building secure web applications.
 
-🔐 Interested in
+### 💡 Focus
 
-- Ethical Hacking
-- Web Application Security
+- Web Security
 - API Security
-- Bug Bounty Hunting
+- VAPT
 - Secure Coding
+- Bug Bounty
 - Penetration Testing
 
-> "Build Secure. Hack Smart. Never Stop Learning."
+> Build Secure • Hack Smart • Never Stop Learning
 
 </td>
 

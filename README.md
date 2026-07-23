@@ -69,7 +69,7 @@
 
 # 🛠 Tech Stack
 
-<img src="./techstack.svg"/>
+<img src="./skill_animate_fixed.svg"/>
 
 ---
 
@@ -80,7 +80,6 @@
 
 <td>
 
-✅ CEH v13
 
 ✅ VAPT
 

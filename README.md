@@ -7,7 +7,7 @@
 <!-- LEFT SIDE -->
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/profile.png" width="220" alt="Nandani Kumari"/>
+<img src="https://raw.githubusercontent.com/itsnandani/itsnandani/main/assets/profile.png" width="220"/>
 
 <br><br>
 

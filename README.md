@@ -3,7 +3,7 @@
 <!-- 🔥 Animated Banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./banner.svg?v=1">
   <img src="./banner.svg?v=1" width="100%" alt="Nandani Kumari"/>
 </picture>
 
@@ -162,28 +162,7 @@
 
 # 💻 Terminal
 
-```bash
-> whoami
-
-Nandani Kumari
-
-Role:
-Frontend Developer
-Ethical Hacker
-VAPT Engineer
-
-Skills:
-React
-TypeScript
-Python
-Cyber Security
-
-Status:
-Available for Opportunities
-```
-
----
-
+<img src="./terminal.svg"/>
 # 🌐 Portfolio
 
 🔗 https://snsecurity.in

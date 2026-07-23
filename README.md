@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="750" alt="Nandani Kumari Banner"/>
+  <img src="./banner.svg" width="800" alt="Nandani Kumari Banner"/>
 </p>
 <table>
 <tr>

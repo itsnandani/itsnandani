@@ -70,7 +70,7 @@
 # 🛠 Tech Stack
 
 <div align="center">
-  <img src="./skills_fixed.svg" width="60" alt="Skills & Technologies"/>
+  <img src="./skills_fixed.svg" width="500" alt="Skills & Technologies"/>
 </div>
 
 # 🛡 Cyber Security Arsenal

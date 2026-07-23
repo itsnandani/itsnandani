@@ -6,7 +6,7 @@
 
 </div>
 <p align="center">
-  <img src="./banner.svg" width="700" alt="Nandani Kumari Banner"/>
+  <img src="./banner.svg" width="800" alt="Nandani Kumari Banner"/>
 </p>
 <table align="center" border="0" cellpadding="20" cellspacing="0" width="100%">
 <tr>
@@ -65,18 +65,7 @@
 </tr>
 </table>
 
----
 
-# ⚡ Featured Projects
-
-| Project | Tech |
-|----------|------|
-| 🛡️ Vulnerability Scanner | Python |
-| 🌐 Security Portfolio | React |
-| 🔐 VAPT Toolkit | Python |
-| 🚀 Animated GitHub Banner | SVG |
-| 💻 Cyber Dashboard | React |
-| 🔥 Bug Bounty Notes | Markdown |
 
 ---
 
@@ -86,46 +75,11 @@
   <img src="./skills_fixed.svg" width="500" alt="Skills & Technologies"/>
 </div>
 
-# 🛡 Cyber Security Arsenal
 
-<table>
-<tr>
-
-<td>
-
-
-✅ VAPT
-
-✅ Web Security
-
-✅ API Security
-
-✅ Network Security
-
-✅ OWASP Top 10
 
 </td>
 
-<td>
 
-✅ Kali Linux
-
-✅ Burp Suite
-
-✅ Wireshark
-
-✅ Nmap
-
-✅ Metasploit
-
-✅ Nessus
-
-</td>
-
-</tr>
-</table>
-
----
 
 # 📊 GitHub Analytics
 

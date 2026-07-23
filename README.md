@@ -140,9 +140,9 @@
 
 # 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/itsnandani/itsnandani/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" alt="Contribution snake"/>
 
----
+<br/><br/>
 
 # 🏆 GitHub Achievements
 

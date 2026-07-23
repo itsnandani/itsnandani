@@ -6,7 +6,7 @@
 
 </div>
 <p align="center">
-  <img src="./banner.svg" width="800" alt="Nandani Kumari Banner"/>
+  <img src="./banner.svg" width="700" alt="Nandani Kumari Banner"/>
 </p>
 <table align="center" border="0" cellpadding="20" cellspacing="0" width="100%">
 <tr>

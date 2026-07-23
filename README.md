@@ -69,9 +69,9 @@
 
 # 🛠 Tech Stack
 
-<img src="./skills_fixed.svg" width="30%"/>
-
----
+<div align="center">
+  <img src="./skills_fixed.svg" width="60" alt="Skills & Technologies"/>
+</div>
 
 # 🛡 Cyber Security Arsenal
 

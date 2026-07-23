@@ -1,16 +1,6 @@
-<div align="center">
-
-<!-- 🔥 Animated Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner.svg?v=1">
-  <img src="./banner.svg?v=1" width="100%" alt="Nandani Kumari"/>
-</picture>
-
-</div>
-
-<br>
-
+<p align="center">
+  <img src="./banner.svg" width="900" alt="Nandani Kumari Banner"/>
+</p>
 <table>
 <tr>
 

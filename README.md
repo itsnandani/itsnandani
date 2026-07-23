@@ -69,7 +69,7 @@
 
 # 🛠 Tech Stack
 
-<img src="./skills_fixed.svg" width="80%"/>
+<img src="./skills_fixed.svg" width="30%"/>
 
 ---
 

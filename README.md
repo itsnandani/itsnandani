@@ -49,26 +49,6 @@
 
 ---
 
-### 📜 Certifications
-
-- ✅ CEH v13
-- ✅ VAPT Engineer
-- ✅ Ethical Hacking
-- ✅ Secure Coding
-
----
-
-### 🌐 Contact
-
-📧 **nandanikumari00250@gmail.com**
-
-🌍 **https://snsecurity.in**
-
-🐙 **https://github.com/itsnandani**
-
-💼 **https://linkedin.com/in/yourusername**
-
----
 
 > 💜 **"Build Secure • Hack Smart • Never Stop Learning."**
 

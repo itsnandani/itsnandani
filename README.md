@@ -26,6 +26,13 @@
 <img src="./assets/profile-card.svg" width="260" alt="Profile Card"/>
 
 </td>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=34&duration=2500&pause=1000&color=FF4ECD&center=true&vCenter=true&width=950&lines=%F0%9F%91%8B+Hello%2C+I'm+Nandani+Kumari;Frontend+Developer+%E2%9C%A8;Ethical+Hacker+%F0%9F%94%90;VAPT+Engineer+%F0%9F%9B%A1%EF%B8%8F;Bug+Bounty+Hunter+%F0%9F%90%9B;Building+Secure+Web+Applications;Code.+Hack.+Secure.+Repeat." />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="90"/>
+
+</div>
 
 <!-- RIGHT SIDE -->
 <td width="65%" valign="top">

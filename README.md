@@ -14,7 +14,7 @@
 <!-- LEFT SIDE -->
 <td width="35%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/itsnandani/itsnandani/main/assets/profile.png](https://avatars.githubusercontent.com/u/186393132?v=4" width="220"/>
+<img src="https://raw.githubusercontent.com/itsnandani/itsnandani/main/gitpic.png" width="220" alt="Nandani Kumari">
 
 <br><br>
 

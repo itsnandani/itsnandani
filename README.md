@@ -14,7 +14,7 @@
 <!-- LEFT SIDE -->
 <td width="32%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/itsnandani/itsnandani/main/card.svg" width="320" alt="Nandani Kumari">
+<img src="https://raw.githubusercontent.com/itsnandani/itsnandani/main/card.svg" width="360" alt="Nandani Kumari">
 
 <br><br>
 

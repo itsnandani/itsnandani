@@ -34,8 +34,7 @@
 </td>
 
 
-<!-- RIGHT SIDE -->
-<td width="65%" valign="top">
+
 
 # 👋 Hi, I'm Nandani Kumari
 

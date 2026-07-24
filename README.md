@@ -56,10 +56,13 @@
 
 ---
 
+<hr>
 
-                  
-                    > 💜 **"Build Secure • Hack Smart • Never Stop Learning."**
+<p align="center">
+💜 <strong>Build Secure</strong> • 🛡️ <strong>Hack Smart</strong> • 🚀 <strong>Never Stop Learning</strong>
+</p>
 
+<hr>
 </td>
 
 </tr>

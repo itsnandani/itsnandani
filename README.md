@@ -117,24 +117,52 @@
 
 ---
 
-# ⚔ Hacker Toolkit
+# 💻 Frontend Development
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,nodejs,python,java,mysql,git,github,linux"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,nodejs,git,github,vscode" />
 </p>
 
 ---
 
-# 💻 Terminal
+# 🛡️ Cyber Security
 
-<img src="./terminal.svg"/>
-# 🌐 Portfolio
-
-🔗 https://snsecurity.in
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethical_Hacking-FF0055?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VAPT-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web_Security-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Security-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Network_Security-2962FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OWASP_Top_10-D32F2F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bug_Bounty-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Penetration_Testing-7B1FA2?style=for-the-badge"/>
+</p>
 
 ---
+
+# ⚔️ Security Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nessus-00A4EF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLMap-8E24AA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FFUF-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gobuster-512DA8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dirsearch-5E35B1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hydra-E53935?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/John_The_Ripper-8E0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hashcat-6D4C41?style=for-the-badge"/>
+</p>
+
+# 💻 Terminal
+
+<p align="center">
+  <img src="./terminal.svg" alt="Animated Terminal" width="100%">
+</p>
 
 # 📬 Connect
 
@@ -152,7 +180,7 @@
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome"/>
 </a>
 
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://www.linkedin.com/in/nandani-kumari-985223297">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -174,4 +202,4 @@
 
 ---
 
-⭐ **Code Secure • Build Better • Keep Learning**
+                        ⭐ **Code Secure • Build Better • Keep Learning**

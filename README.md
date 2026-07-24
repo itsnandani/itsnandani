@@ -85,14 +85,6 @@
 
 <p align="center">
 
-<img src="./stats.svg" height="180"/>
-
-<img src="./langs.svg" height="180"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=itsnandani&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -111,11 +103,6 @@
 
 <br/><br/>
 
-# 🏆 GitHub Achievements
-
-<img src="./trophies.svg"/>
-
----
 
 # 💻 Frontend Development
 

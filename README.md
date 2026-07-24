@@ -148,7 +148,7 @@
 # 💻 Terminal
 
 <p align="center">
-  <img src="./terminal.svg" alt="Animated Terminal" width="100%">
+  <img src="./hacker_typing.svg" alt="Animated Terminal" width="100%">
 </p>
 
 # 📬 Connect

@@ -185,8 +185,10 @@
 
 ---
 
-                    <img src="https://komarev.com/ghpvc/?username=itsnandani&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=itsnandani&style=for-the-badge&color=blueviolet"/>
 
 ---
 
-                                       ⭐ **Code Secure • Build Better • Keep Learning**
+<p align="center">
+⚡ <b>Code Secure</b> • 🛡️ <b>Build Better</b> • 🚀 <b>Keep Learning</b> ⚡
+</p>

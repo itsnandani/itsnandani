@@ -60,8 +60,6 @@
   <strong>⚡ Build Secure • 🛡️ Hack Smart • 🚀 Never Stop Learning ⚡</strong>
 </p>
 
----
-<hr>
 </td>
 
 </tr>

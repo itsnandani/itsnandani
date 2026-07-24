@@ -30,7 +30,7 @@
 
 <br><br>
 
-<img src="./assets/profile-card.svg" width="260" alt="Profile Card"/>
+<img src="./assets/card.svg" width="260" alt="Profile Card"/>
 
 </td>
 

@@ -14,7 +14,7 @@
 <!-- LEFT SIDE -->
 <td width="35%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/itsnandani/itsnandani/main/gitpic.png" width="220" alt="Nandani Kumari">
+<img src="https://raw.githubusercontent.com/itsnandani/itsnandani/main/gitpic.png" width="300" alt="Nandani Kumari">
 
 <br><br>
 
@@ -30,7 +30,7 @@
 
 <br><br>
 
-<img src="./assets/card.svg" width="260" alt="Profile Card"/>
+<img src="./card.svg" width="260" alt="Profile Card"/>
 
 </td>
 

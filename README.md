@@ -29,7 +29,8 @@
 <img src="https://img.shields.io/badge/Bug_Bounty-Hunter-success?style=for-the-badge"/>
 
 <br><br>
-
+<!-- RIGHT SIDE -->
+<td width="65%" valign="top">
 
 </td>
 

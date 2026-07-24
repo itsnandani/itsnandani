@@ -175,19 +175,18 @@
 
 ---
 
-# ☕ Support
 
-<a href="https://github.com/sponsors/itsnandani">
+<h2>🪙 Support</h2>
 
-<img src="https://img.shields.io/badge/Sponsor-ff69b4?style=for-the-badge"/>
+<p align="center">
+  <a href="https://github.com/sponsors/itsnandani">
+    <img src="https://img.shields.io/badge/Sponsor-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+  </a>
 
-</a>
+  &nbsp;&nbsp;&nbsp;
 
----
-
-<img src="https://komarev.com/ghpvc/?username=itsnandani&style=for-the-badge&color=blueviolet"/>
-
----
+  <img src="https://komarev.com/ghpvc/?username=itsnandani&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
+</p>
 
 <p align="center">
 ⚡ <b>Code Secure</b> • 🛡️ <b>Build Better</b> • 🚀 <b>Keep Learning</b> ⚡

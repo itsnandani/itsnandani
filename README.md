@@ -12,9 +12,9 @@
 <tr>
 
 <!-- LEFT SIDE -->
-<td width="35%" align="center" valign="middle">
+<td width="32%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/itsnandani/itsnandani/main/card.svg" width="300" alt="Nandani Kumari">
+<img src="https://raw.githubusercontent.com/itsnandani/itsnandani/main/card.svg" width="320" alt="Nandani Kumari">
 
 <br><br>
 
@@ -185,8 +185,8 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=itsnandani&style=for-the-badge&color=blueviolet"/>
+                    <img src="https://komarev.com/ghpvc/?username=itsnandani&style=for-the-badge&color=blueviolet"/>
 
 ---
 
-                                     ⭐ **Code Secure • Build Better • Keep Learning**
+                                       ⭐ **Code Secure • Build Better • Keep Learning**
